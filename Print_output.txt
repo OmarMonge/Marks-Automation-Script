@@ -1,0 +1,96 @@
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 2 - 4
+Timecode Range: 00:00:00:02 - 00:00:00:04
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 31 - 33
+Timecode Range: 00:00:00:31 - 00:00:00:33
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 67 - 70
+Timecode Range: 00:00:01:07 - 00:00:01:10
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 122 - 123
+Timecode Range: 00:00:02:02 - 00:00:02:03
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1111 - 1112
+Timecode Range: 00:00:18:31 - 00:00:18:32
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1201 - 1205
+Timecode Range: 00:00:20:01 - 00:00:20:05
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1211 - 1215
+Timecode Range: 00:00:20:11 - 00:00:20:15
+
+Location: /hpsans12/production/Dune2/reel1/VFX/Hydraulx
+Range: 1251 - 1253
+Timecode Range: 00:00:20:51 - 00:00:20:53
+
+Location: /hpsans12/production/Dune2/reel1/VFX/Hydraulx
+Range: 1270 - 1272
+Timecode Range: 00:00:21:10 - 00:00:21:12
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1302 - 1303
+Timecode Range: 00:00:21:42 - 00:00:21:43
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 5000 - 5002
+Timecode Range: 00:01:23:20 - 00:01:23:22
+
+Location: /hpsans15/production/Dune2/pickups/shot_1ab/1920x1080
+Range: 5010 - 5014
+Timecode Range: 00:01:23:30 - 00:01:23:34
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 2 - 4
+Timecode Range: 00:00:00:02 - 00:00:00:04
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 31 - 33
+Timecode Range: 00:00:00:31 - 00:00:00:33
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 67 - 70
+Timecode Range: 00:00:01:07 - 00:00:01:10
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 122 - 123
+Timecode Range: 00:00:02:02 - 00:00:02:03
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1111 - 1112
+Timecode Range: 00:00:18:31 - 00:00:18:32
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1201 - 1205
+Timecode Range: 00:00:20:01 - 00:00:20:05
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1211 - 1215
+Timecode Range: 00:00:20:11 - 00:00:20:15
+
+Location: /hpsans12/production/Dune2/reel1/VFX/Hydraulx
+Range: 1251 - 1253
+Timecode Range: 00:00:20:51 - 00:00:20:53
+
+Location: /hpsans12/production/Dune2/reel1/VFX/Hydraulx
+Range: 1270 - 1272
+Timecode Range: 00:00:21:10 - 00:00:21:12
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 1302 - 1303
+Timecode Range: 00:00:21:42 - 00:00:21:43
+
+Location: /hpsans13/production/Dune2/reel1/partA/1920x1080
+Range: 5000 - 5002
+Timecode Range: 00:01:23:20 - 00:01:23:22
+
+Location: /hpsans15/production/Dune2/pickups/shot_1ab/1920x1080
+Range: 5010 - 5014
+Timecode Range: 00:01:23:30 - 00:01:23:34
+
