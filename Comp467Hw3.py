@@ -17,7 +17,7 @@ mongo_client = pymongo.MongoClient("mongodb://localhost:27017/")
 db = mongo_client["your_database_name"]
 
 # Initialize the Frame.io client
-frameio_client = FrameioClient("fio-u-P0hvqjiV1YHj-1-k5ONM2ltMFSEYsIJjjr5NVkrCLmTPjWU-Q1c-HYjAAWaZHiC0")
+frameio_client = FrameioClient("Insert token here")
 
 XY_File = None  # Define XY_File at the module level
 
